@@ -1,0 +1,15 @@
+/Users/lookit/Documents/Programación/C#/Ejercicios/Actividad 5  Bucles (2)/Actividad 5  Bucles (2)/obj/Debug/net7.0/Actividad 5  Bucles (2).csproj.AssemblyReference.cache
+/Users/lookit/Documents/Programación/C#/Ejercicios/Actividad 5  Bucles (2)/Actividad 5  Bucles (2)/obj/Debug/net7.0/Actividad 5  Bucles (2).GeneratedMSBuildEditorConfig.editorconfig
+/Users/lookit/Documents/Programación/C#/Ejercicios/Actividad 5  Bucles (2)/Actividad 5  Bucles (2)/obj/Debug/net7.0/Actividad 5  Bucles (2).AssemblyInfoInputs.cache
+/Users/lookit/Documents/Programación/C#/Ejercicios/Actividad 5  Bucles (2)/Actividad 5  Bucles (2)/obj/Debug/net7.0/Actividad 5  Bucles (2).AssemblyInfo.cs
+/Users/lookit/Documents/Programación/C#/Ejercicios/Actividad 5  Bucles (2)/Actividad 5  Bucles (2)/obj/Debug/net7.0/Actividad 5  Bucles (2).csproj.CoreCompileInputs.cache
+/Users/lookit/Documents/Programación/C#/Ejercicios/Actividad 5  Bucles (2)/Actividad 5  Bucles (2)/bin/Debug/net7.0/Actividad 5  Bucles (2)
+/Users/lookit/Documents/Programación/C#/Ejercicios/Actividad 5  Bucles (2)/Actividad 5  Bucles (2)/bin/Debug/net7.0/Actividad 5  Bucles (2).deps.json
+/Users/lookit/Documents/Programación/C#/Ejercicios/Actividad 5  Bucles (2)/Actividad 5  Bucles (2)/bin/Debug/net7.0/Actividad 5  Bucles (2).runtimeconfig.json
+/Users/lookit/Documents/Programación/C#/Ejercicios/Actividad 5  Bucles (2)/Actividad 5  Bucles (2)/bin/Debug/net7.0/Actividad 5  Bucles (2).dll
+/Users/lookit/Documents/Programación/C#/Ejercicios/Actividad 5  Bucles (2)/Actividad 5  Bucles (2)/bin/Debug/net7.0/Actividad 5  Bucles (2).pdb
+/Users/lookit/Documents/Programación/C#/Ejercicios/Actividad 5  Bucles (2)/Actividad 5  Bucles (2)/obj/Debug/net7.0/Actividad 5  Bucles (2).dll
+/Users/lookit/Documents/Programación/C#/Ejercicios/Actividad 5  Bucles (2)/Actividad 5  Bucles (2)/obj/Debug/net7.0/refint/Actividad 5  Bucles (2).dll
+/Users/lookit/Documents/Programación/C#/Ejercicios/Actividad 5  Bucles (2)/Actividad 5  Bucles (2)/obj/Debug/net7.0/Actividad 5  Bucles (2).pdb
+/Users/lookit/Documents/Programación/C#/Ejercicios/Actividad 5  Bucles (2)/Actividad 5  Bucles (2)/obj/Debug/net7.0/Actividad 5  Bucles (2).genruntimeconfig.cache
+/Users/lookit/Documents/Programación/C#/Ejercicios/Actividad 5  Bucles (2)/Actividad 5  Bucles (2)/obj/Debug/net7.0/ref/Actividad 5  Bucles (2).dll
